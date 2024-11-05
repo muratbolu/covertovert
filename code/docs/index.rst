@@ -6,8 +6,6 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
-
 Group Number: 82
 
 Members:
