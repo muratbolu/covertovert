@@ -8,6 +8,11 @@ Basic ICMP Documentation
 
 Please add your names and group ID here by editing `index.rst` in the docs folder.
 
+Group Number: 82
+
+Members:
+ * Murat Bolu (2521300)
+ * Reza Gholizadeh (2490258)
 
 .. toctree::
    :maxdepth: 2
