@@ -1,3 +1,3 @@
-import scapy
+from scapy.all import send, IP, ICMP
 
-# Implement your ICMP sender here
+send(IP(src="sender",dst="receiver",ttl=1)/ICMP())
