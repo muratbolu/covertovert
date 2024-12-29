@@ -11,7 +11,7 @@
     },
     "receive": {
         "parameters": {
-            "log_file_name": "dns_tc_flag_sender.log",
+            "log_file_name": "dns_tc_flag_receiver.log",
             "port": 12345,
             "init_state": 0,
             "change_char": 1
