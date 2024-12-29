@@ -6,8 +6,13 @@
 Covert Channel documentation
 ============================
 
-Please add your names, group ID, and your link to the forked public repository here by editing `index.rst` in the docs folder.
+Group Number: 82
 
+Repository Link: https://github.com/muratbolu/covertovert/tree/PA2
+
+Members:
+ * Murat Bolu (2521300)
+ * Reza Gholizadeh (2490258)
 
 .. toctree::
    :maxdepth: 2

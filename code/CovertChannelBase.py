@@ -35,7 +35,7 @@ class CovertChannelBase:
         """
         binary_message_to_transfer = ''.join(format(i, '08b') for i in bytearray(message, encoding='utf-8'))
         return binary_message_to_transfer
-    def generate_random_message(self, min_length=5, max_length=10):
+    def generate_random_message(self, min_length=16, max_length=16):
         """
         - You can use this function if you want to create a random string, e.g. for the payload of the packet.
         """
